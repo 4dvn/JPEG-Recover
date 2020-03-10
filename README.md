@@ -12,3 +12,5 @@
 <br/>
 <h4>NOTE</h4>
 <p><pre>jpegrecover2.py</pre> is recommended for use, as it's the latest and best refactored version of the program. The old file is there only temporarily.</p>
+
+[![Run on Repl.it](https://repl.it/badge/github/4dvn/JPEG-Recover)](https://repl.it/github/4dvn/JPEG-Recover)
